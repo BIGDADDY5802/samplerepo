@@ -1,0 +1,17 @@
+goodbye
+
+pwd: Print the current working directory 
+ls: List directory contents 
+cd: Change directory 
+mkdir: Create a new directory 
+rmdir: Remove an empty directory 
+touch: Create a new empty file 
+cp: Copy files or directories 
+mv: Move or rename files or directories 
+rm: Delete files or directories 
+cat: View file contents 
+nano: Open file in Nano text editor 
+chmod: Change file permissions 
+chown: Change file owner or group 
+echo: Display a message or variable 
+clear: Clear the terminal screen 
